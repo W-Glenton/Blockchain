@@ -139,8 +139,7 @@ class Blockchain:
 
         return valid
 
-    def updatePOWdifficulty(newdifficulty):
-        self.POW_difficulty = newdifficulty
+    
 
 
 
